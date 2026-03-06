@@ -1,6 +1,28 @@
 {
   "type": "module",
   "dependencies": {
+    "@types/node": "^25.3.3",
     "readline-sync": "^1.4.10"
+  },
+  "name": "atividade_pratica",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eduarda0aleixo/exercicios_generation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eduarda0aleixo/exercicios_generation/issues"
+  },
+  "homepage": "https://github.com/eduarda0aleixo/exercicios_generation#readme",
+  "devDependencies": {
+    "@types/readline-sync": "^1.4.8"
   }
 }
